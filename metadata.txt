@@ -1,0 +1,10 @@
+[general]
+name=PlanLingo
+description=A QGIS plugin that enables urban planners to perform spatial analyses via natural language queries.
+version=0.1.0
+qgisMinimumVersion=3.34
+author=Your Name
+email=you@example.com
+category=Analysis
+icon=icon.png
+about=PlanLingo provides a dockable interface where users can type queries like "show all parks within 500m of rivers". The plugin translates the query using an LLM (MCP or direct API) into PyQGIS processing steps and visualizes the results on the map canvas.
