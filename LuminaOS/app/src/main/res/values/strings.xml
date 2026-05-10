@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LuminaOS</string>
+    <string name="settings_title">Settings</string>
+    <string name="search_hint">Search apps...</string>
+    <string name="widget_clock_label">Lumina Clock</string>
+    <string name="widget_clock_description">A simple clock widget for LuminaOS</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_wallpaper">Wallpaper</string>
+    <string name="grid_size_small">Small (4x4)</string>
+    <string name="grid_size_medium">Medium (5x5)</string>
+    <string name="grid_size_large">Large (6x6)</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="show_labels">Show App Labels</string>
+</resources>
